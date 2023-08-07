@@ -1,0 +1,527 @@
+Enter game file: #####
+# C D
+# C #
+P C #
+#####
+---------------
+Inventory
+Empty
+---------------
+HP: 100
+hunger: 0
+thirst: 0
+
+Enter a move: #####
+# C D
+# C #
+ PC #
+#####
+---------------
+Inventory
+Empty
+---------------
+HP: 99
+hunger: 0
+thirst: 0
+
+Enter a move: #####
+# C D
+# C #
+  P #
+#####
+---------------
+Inventory
+Coin: 1
+---------------
+HP: 98
+hunger: 0
+thirst: 0
+
+Enter a move: #####
+# C D
+# P #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 97
+hunger: 0
+thirst: 0
+
+Enter a move: #####
+# P  
+#   #
+    #
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 96
+hunger: 0
+thirst: 0
+
+Enter a move: #####
+#  P 
+#   #
+    #
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 95
+hunger: 1
+thirst: 1
+
+Enter a move: #####
+#   P
+#   #
+    #
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 94
+hunger: 1
+thirst: 1
+
+Enter a move: ########
+P M  H #
+###### #
+#LL M A#
+#L######
+#LLL   #
+######D#
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 94
+hunger: 1
+thirst: 1
+
+Enter a move: ########
+ PM  H #
+###### #
+#LL M A#
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 93
+hunger: 1
+thirst: 1
+
+Enter a move: ########
+  P  H #
+###### #
+#LL M A#
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 1
+---------------
+HP: 92
+hunger: 1
+thirst: 1
+
+Enter a move: ########
+   P H #
+###### #
+#LL M A#
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 1
+---------------
+HP: 91
+hunger: 1
+thirst: 1
+
+Enter a move: ########
+    PH #
+###### #
+#LL M A#
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 1
+---------------
+HP: 90
+hunger: 2
+thirst: 2
+
+Enter a move: ########
+     P #
+###### #
+#LL M A#
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 1
+Honey: 1
+---------------
+HP: 89
+hunger: 2
+thirst: 2
+
+Enter a move: ########
+      P#
+###### #
+#LL M A#
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 1
+Honey: 1
+---------------
+HP: 88
+hunger: 2
+thirst: 2
+
+Enter a move: ########
+       #
+######P#
+#LL M A#
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 1
+Honey: 1
+---------------
+HP: 87
+hunger: 2
+thirst: 2
+
+Enter a move: ########
+       #
+###### #
+#LL M P#
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 1
+Honey: 1
+Apple: 1
+---------------
+HP: 86
+hunger: 2
+thirst: 2
+
+Enter a move: ########
+       #
+###### #
+#LL MP #
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 1
+Honey: 1
+Apple: 1
+---------------
+HP: 85
+hunger: 3
+thirst: 3
+
+Enter a move: ########
+       #
+###### #
+#LL P  #
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 84
+hunger: 3
+thirst: 3
+
+Enter a move: ########
+       #
+###### #
+#LLP   #
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 83
+hunger: 3
+thirst: 3
+
+Enter a move: ########
+       #
+###### #
+#LP    #
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 77
+hunger: 3
+thirst: 3
+
+Enter a move: ########
+       #
+###### #
+#PL    #
+#L######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 71
+hunger: 3
+thirst: 3
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#P######
+#LLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 65
+hunger: 4
+thirst: 4
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#PLL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 59
+hunger: 4
+thirst: 4
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LPL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 53
+hunger: 4
+thirst: 4
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LLP   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 47
+hunger: 4
+thirst: 4
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LPL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 41
+hunger: 4
+thirst: 4
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LLP   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 35
+hunger: 5
+thirst: 5
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LPL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 29
+hunger: 5
+thirst: 5
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LLP   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 23
+hunger: 5
+thirst: 5
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LPL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 17
+hunger: 5
+thirst: 5
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LLP   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 11
+hunger: 5
+thirst: 5
+
+Enter a move: ########
+       #
+###### #
+#LL    #
+#L######
+#LPL   #
+###### #
+---------------
+Inventory
+Coin: 3
+Potion: 2
+Honey: 1
+Apple: 1
+---------------
+HP: 5
+hunger: 6
+thirst: 6
+
+Enter a move: You lose :(
